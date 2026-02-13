@@ -7,6 +7,7 @@ def my_range(start, stop, step = 1):
         i += step
 
 try:
+    # this code will print from 10 to 50, with step 3
     for k in my_range(10, 50, 3):
         print(k)
 except RuntimeError as e:
