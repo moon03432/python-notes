@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/agents/agent.py
+src/hitl_demo.egg-info/PKG-INFO
+src/hitl_demo.egg-info/SOURCES.txt
+src/hitl_demo.egg-info/dependency_links.txt
+src/hitl_demo.egg-info/requires.txt
+src/hitl_demo.egg-info/top_level.txt

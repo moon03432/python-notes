@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: hitl-demo
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: langchain>=0.3.0
+Requires-Dist: langchain-deepseek>=0.1.4
+Requires-Dist: langchain-openai>=0.3.35
+Requires-Dist: langgraph>=0.6.11
+
+Human-in-the-Loop
+https://bytetech.info/articles/7581106424604786739#Pp9cdybspoPJlex1qAHcsB7Inlh
