@@ -1,2 +1,3 @@
 langchain/.env
 langchain/venv/
+langchain/document-retrieval/docs/chroma/
