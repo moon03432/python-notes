@@ -3,6 +3,9 @@ from langchain.agents.middleware import HumanInTheLoopMiddleware
 from langchain.tools import tool
 from langgraph.checkpoint.memory import InMemorySaver
 from langgraph.types import Command
+from dotenv import load_dotenv, find_dotenv
+
+load_dotenv("../.env")
 
 # 定义一个“危险”的工具
 @tool
